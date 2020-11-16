@@ -1,6 +1,6 @@
-# ros_setup_scripts_Ubuntu18.04
+# ros_setup_scripts_Ubuntu20.04
 
-ROS (Melodic Morenia) setup scripts for Ubuntu 18.04
+ROS (Melodic Morenia) setup scripts for Ubuntu 20.04
 
 # scripts
 
@@ -14,4 +14,4 @@ It installs ROS. Roscore will run if all procedures in this script are completed
 
 # tested on ...
 
-* Ubuntu 18.04 Server
+* Ubuntu 20.04 Server
