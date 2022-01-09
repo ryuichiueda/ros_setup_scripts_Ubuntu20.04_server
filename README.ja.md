@@ -1,4 +1,4 @@
-# ros_setup_scripts_Ubuntu18.04
+# ros_setup_scripts_Ubuntu20.04
 
 ROS（Melodic Morenia）をUbuntu 20.04に一発でインストール・セットアップするシェルスクリプトです。
 
